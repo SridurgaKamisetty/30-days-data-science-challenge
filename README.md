@@ -24,6 +24,13 @@ final insight — not just practice, but actual findings.
 | 01 | SQL | Sales Database Exploration | West drives 27.5% of revenue |✅ Done  |
 | 02 | Excel | Monthly Revenue Trend | December is peak month ($1,580,816) | ✅ Done |
 | 03 | Python | Data Cleaning on Messy CSV | 866 dirty values fixed, 0 remaining | ✅ Done |
+| 04 | SQL | Customer Order Frequency | Coming soon | ⏳ |
+| 05 | Power BI | Sales KPI Dashboard | Coming soon | ⏳ |
+| 06 | Python | Titanic EDA | Coming soon | ⏳ |
+| 07 | ML | House Price Prediction | Coming soon | ⏳ |
+| 08 | SQL | Window Functions | Coming soon | ⏳ |
+| 09 | Excel | Product Performance Pivot | Coming soon | ⏳ |
+| 10 | Python | Supermarket Sales Analysis | Coming soon | ⏳ |
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
