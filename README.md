@@ -24,7 +24,7 @@ final insight — not just practice, but actual findings.
 | 01 | SQL | Sales Database Exploration | West drives 27.5% of revenue |✅ Done  |
 | 02 | Excel | Monthly Revenue Trend | December is peak month ($1,580,816) | ✅ Done |
 | 03 | Python | Data Cleaning on Messy CSV | 866 dirty values fixed, 0 remaining | ✅ Done |
-| 04 | SQL | Customer Order Frequency | Coming soon | ⏳ |
+| 04 | SQL | Customer Order Frequency | Amit Sharma is top customer — 21 orders, ₹6,04,000 | ✅ Done |
 | 05 | Power BI | Sales KPI Dashboard | Coming soon | ⏳ |
 | 06 | Python | Titanic EDA | Coming soon | ⏳ |
 | 07 | ML | House Price Prediction | Coming soon | ⏳ |
