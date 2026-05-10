@@ -26,7 +26,7 @@ final insight — not just practice, but actual findings.
 | 03 | Python | Data Cleaning on Messy CSV | 866 dirty values fixed, 0 remaining | ✅ Done |
 | 04 | SQL | Customer Order Frequency | Amit Sharma is top customer — 21 orders, ₹6,04,000 | ✅ Done |
 | 05 | Power BI | Sales KPI Dashboard | Laptop drives 52.96% of revenue | ✅ Done |
-| 06 | Python | Titanic EDA | Coming soon | ⏳ |
+| 06 | Python | Titanic EDA | Female 74.2% vs Male 18.9% survival — gender & class both mattered | ✅ Done |
 | 07 | ML | House Price Prediction | Coming soon | ⏳ |
 | 08 | SQL | Window Functions | Coming soon | ⏳ |
 | 09 | Excel | Product Performance Pivot | Coming soon | ⏳ |
