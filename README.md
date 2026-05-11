@@ -27,7 +27,7 @@ final insight — not just practice, but actual findings.
 | 04 | SQL | Customer Order Frequency | Amit Sharma is top customer — 21 orders, ₹6,04,000 | ✅ Done |
 | 05 | Power BI | Sales KPI Dashboard | Laptop drives 52.96% of revenue | ✅ Done |
 | 06 | Python | Titanic EDA | Female 74.2% vs Male 18.9% survival — gender & class both mattered | ✅ Done |
-| 07 | ML | House Price Prediction | Coming soon | ⏳ |
+| 07 | ML | Automobile Price Prediction | Engine-location & fuel-type are top price drivers — R²=0.86 | ✅ Done  |
 | 08 | SQL | Window Functions | Coming soon | ⏳ |
 | 09 | Excel | Product Performance Pivot | Coming soon | ⏳ |
 | 10 | Python | Supermarket Sales Analysis | Coming soon | ⏳ |
