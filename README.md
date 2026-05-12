@@ -28,7 +28,7 @@ final insight — not just practice, but actual findings.
 | 05 | Power BI | Sales KPI Dashboard | Laptop drives 52.96% of revenue | ✅ Done |
 | 06 | Python | Titanic EDA | Female 74.2% vs Male 18.9% survival — gender & class both mattered | ✅ Done |
 | 07 | ML | Automobile Price Prediction | Engine-location & fuel-type are top price drivers — R²=0.86 | ✅ Done  |
-| 08 | SQL | Window Functions | Coming soon | ⏳ |
+| 08 | SQL | Window Functions |  Revenue grew consistently reaching ₹13,19,500 by April | ✅ Done  |
 | 09 | Excel | Product Performance Pivot | Coming soon | ⏳ |
 | 10 | Python | Supermarket Sales Analysis | Coming soon | ⏳ |
 | ... | ... | ... | ... | |
