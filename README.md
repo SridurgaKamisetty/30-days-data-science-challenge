@@ -30,7 +30,7 @@ final insight — not just practice, but actual findings.
 | 07 | ML | Automobile Price Prediction | Engine-location & fuel-type are top price drivers — R²=0.86 | ✅ Done  |
 | 08 | SQL | Window Functions |  Revenue grew consistently reaching ₹13,19,500 by April | ✅ Done  |
 | 09 | Excel | Product Performance Pivot | Food & Beverages top revenue ₹56,144 — Naypyitaw most profitable city | ✅ Done |
-| 10 | Python | Supermarket Sales Analysis | Coming soon | ⏳ |
+| 10 | Python | Supermarket Sales Analysis | Food & Beverages top profit $2,673 — Naypyitaw leads city sales | ✅ Done |
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
