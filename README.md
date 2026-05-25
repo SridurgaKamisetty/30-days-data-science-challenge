@@ -33,6 +33,7 @@ final insight — not just practice, but actual findings.
 | 10 | Python | Supermarket Sales Analysis | Food & Beverages top profit $2,673 — Naypyitaw leads city sales | ✅ Done |
 | 11 | Power BI | HR Attrition Dashboard | 17% attrition — R&D dept highest, Sales Executive top role | ✅ Done |
 | 12 | ML | Customer Churn Prediction | PhoneService & Contract are top churn factors — 81.69% accuracy | ✅ Done |
+| 13 | SQL | Cohort Retention Analysis | 40% retention — 2 out of 5 January customers returned in March | ✅ Done |
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
