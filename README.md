@@ -37,6 +37,7 @@ final insight — not just practice, but actual findings.
 | 14 | Python | Stock Price Time Series | Buy Friday, Sell Monday — clear weekly pattern in Tesla stock | ✅ Done |
 | 15 | Excel | Sales Forecasting | Q2 revenue forecasted to decline 9.5% — June lowest at $93,982 | ✅ Done |
 | 16 | Power BI | Road Accident Analysis | Weather, drunk driving & overspeeding are top accident causes | ✅ Done |
+| 17 | Machine Learning | Loan Approval Prediction | Predicted loan approvals using Logistic Regression (78.86% Accuracy) | ✅ Done |
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
