@@ -38,6 +38,7 @@ final insight — not just practice, but actual findings.
 | 15 | Excel | Sales Forecasting | Q2 revenue forecasted to decline 9.5% — June lowest at $93,982 | ✅ Done |
 | 16 | Power BI | Road Accident Analysis | Weather, drunk driving & overspeeding are top accident causes | ✅ Done |
 | 17 | Machine Learning | Loan Approval Prediction | Predicted loan approvals using Logistic Regression (78.86% Accuracy) | ✅ Done |
+| 18 | Web Scraping | Job Scraper | Scraped 100 job listings, extracted title, company, and location, and saved the data to CSV | ✅ Done
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
