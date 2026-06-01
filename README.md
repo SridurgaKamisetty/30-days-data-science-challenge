@@ -39,6 +39,7 @@ final insight — not just practice, but actual findings.
 | 16 | Power BI | Road Accident Analysis | Weather, drunk driving & overspeeding are top accident causes | ✅ Done |
 | 17 | Machine Learning | Loan Approval Prediction | Predicted loan approvals using Logistic Regression (78.86% Accuracy) | ✅ Done |
 | 18 | Web Scraping | Job Scraper | Scraped 100 job listings, extracted title, company, and location, and saved the data to CSV | ✅ Done
+| 19 | SQL | RFM Customer Segmentation | Identified High-Value and At-Risk customers using RFM metrics | ✅ Done |
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
