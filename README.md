@@ -40,6 +40,7 @@ final insight — not just practice, but actual findings.
 | 17 | Machine Learning | Loan Approval Prediction | Predicted loan approvals using Logistic Regression (78.86% Accuracy) | ✅ Done |
 | 18 | Web Scraping | Job Scraper | Scraped 100 job listings, extracted title, company, and location, and saved the data to CSV | ✅ Done
 | 19 | SQL | RFM Customer Segmentation | Identified High-Value and At-Risk customers using RFM metrics | ✅ Done |
+| 20 | Excel | Financial P&L Model | Estimated break-even point using Excel financial analysis | ✅ Done |
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
