@@ -41,6 +41,7 @@ final insight — not just practice, but actual findings.
 | 18 | Web Scraping | Job Scraper | Scraped 100 job listings, extracted title, company, and location, and saved the data to CSV | ✅ Done
 | 19 | SQL | RFM Customer Segmentation | Identified High-Value and At-Risk customers using RFM metrics | ✅ Done |
 | 20 | Excel | Financial P&L Model | Estimated break-even point using Excel financial analysis | ✅ Done |
+| 21 | Power BI | E-Commerce Business Performance Dashboard | UK drives 80%+ of 10.66M revenue, declining trend detected | ✅ Done |
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
