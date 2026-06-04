@@ -42,6 +42,7 @@ final insight — not just practice, but actual findings.
 | 19 | SQL | RFM Customer Segmentation | Identified High-Value and At-Risk customers using RFM metrics | ✅ Done |
 | 20 | Excel | Financial P&L Model | Estimated break-even point using Excel financial analysis | ✅ Done |
 | 21 | Power BI | E-Commerce Business Performance Dashboard | UK drives 80%+ of 10.66M revenue, declining trend detected | ✅ Done |
+| 22 | Machine Learning | Customer Segmentation using K-Means Clustering | Identified 5 customer personas using unsupervised learning | ✅ Done |
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
