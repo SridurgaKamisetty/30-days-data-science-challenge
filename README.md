@@ -43,6 +43,7 @@ final insight — not just practice, but actual findings.
 | 20 | Excel | Financial P&L Model | Estimated break-even point using Excel financial analysis | ✅ Done |
 | 21 | Power BI | E-Commerce Business Performance Dashboard | UK drives 80%+ of 10.66M revenue, declining trend detected | ✅ Done |
 | 22 | Machine Learning | Customer Segmentation using K-Means Clustering | Identified 5 customer personas using unsupervised learning | ✅ Done |
+| 23 | Python + Streamlit | Data Role Suggestion App | User skills mapped to suitable data roles through an interactive web application | ✅ Done |
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
