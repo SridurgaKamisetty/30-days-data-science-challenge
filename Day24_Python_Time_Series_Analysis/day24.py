@@ -1,0 +1,20 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+df=pd.read_csv(r"C:\Users\user\Downloads\tesla-stock-price.csv")
+df['date']=pd.to_datetime(df['date'], format='mixed')
+df.set_index('date', inplace=True)
+df['MA_7'] = df['close'].rolling(window=7).mean()
+df['MA_30'] = df['close'].rolling(window=30).mean()
+print(df[['close', 'MA_7', 'MA_30']].head(10))
+df = df.sort_index()
+df = df[df.index < '2026-01-01']
+print(df[['close', 'MA_7', 'MA_30']].tail(10))
+plt.figure(figsize=(12,6))
+plt.plot(df['close'], label='Close Price', alpha=0.5)
+plt.plot(df['MA_7'], label='7 Day MA', color='orange')
+plt.plot(df['MA_30'], label='30 Day MA', color='red')
+plt.title('Tesla Stock Price - Moving Average Analysis')
+plt.xlabel('Date')
+plt.ylabel('Price')
+plt.legend()
+plt.show()
