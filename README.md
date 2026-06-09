@@ -47,6 +47,8 @@ final insight — not just practice, but actual findings.
 | 24 | Python | Time Series Analysis — Tesla Stock | Peak $380 in 2017, Death Cross detected in 2018 indicating downtrend | ✅ Done |
 | 25 | SQL | JOINS — Northwind Sales Analysis | USA leads $263,566 revenue, Germany close second, Austria highest order value per order | ✅ Done |
 | 26 | ML | Credit Card Fraud Detection | 0.17% fraud, Recall improved 72%→92% after class_weight='balanced', Precision-Recall tradeoff identified | ✅ Done |
+| 27 | Excel | Employee Salary Analysis | Finance highest ₹50,000 avg salary, Sales lowest, IF formula for salary classification | ✅ Done |
+
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
 
