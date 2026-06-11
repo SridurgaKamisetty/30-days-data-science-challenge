@@ -49,6 +49,7 @@ final insight — not just practice, but actual findings.
 | 26 | ML | Credit Card Fraud Detection | 0.17% fraud, Recall improved 72%→92% after class_weight='balanced', Precision-Recall tradeoff identified | ✅ Done |
 | 27 | Excel | Employee Salary Analysis | Finance highest ₹50,000 avg salary, Sales lowest, IF formula for salary classification | ✅ Done |
 | 28 | SQL | IBM HR Attrition Analysis | CTE + Window Functions + CASE WHEN — department and role wise attrition identified | ✅ Done |
+| 29 | Power BI | Sales Analysis Dashboard | West leads 31.58% sales, Furniture lowest profit 6.44%, seasonal patterns identified | ✅ Done |
 
 | ... | ... | ... | ... | |
 | 30 | Python | Full Portfolio Capstone | Coming soon | |
