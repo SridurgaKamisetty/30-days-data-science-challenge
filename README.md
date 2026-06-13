@@ -9,11 +9,11 @@ final insight — not just practice, but actual findings.
 ---
 
 ## Tools Used
-- SQL (SQLiteOnline / MySQL Workbench)
+- SQL ( MySQL Workbench)
 - Microsoft Excel
 - Power BI
 - Python (Pandas, Matplotlib, Scikit-learn)
-- Machine Learning (Scikit-learn, XGBoost)
+- Machine Learning (Scikit-learn)
 
 ---
 
@@ -50,10 +50,7 @@ final insight — not just practice, but actual findings.
 | 27 | Excel | Employee Salary Analysis | Finance highest ₹50,000 avg salary, Sales lowest, IF formula for salary classification | ✅ Done |
 | 28 | SQL | IBM HR Attrition Analysis | CTE + Window Functions + CASE WHEN — department and role wise attrition identified | ✅ Done |
 | 29 | Power BI | Sales Analysis Dashboard | West leads 31.58% sales, Furniture lowest profit 6.44%, seasonal patterns identified | ✅ Done |
-
-| ... | ... | ... | ... | |
-| 30 | Python | Full Portfolio Capstone | Coming soon | |
-
+|  30 | Python+Power BI | Campus Placement Analysis | Skills > Academics proven by data — 68.84% placement rate, work experience key factor | ✅ Done |
 ---
 
 ## Folder Structure
